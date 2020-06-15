@@ -4,7 +4,7 @@ import Hello from "./Hello";
 
 const styles = {
   fontFamily: "sans-serif",
-  textAlign: "right"
+  textAlign: "left"
 };
 
 const App = () => (
